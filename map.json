@@ -145,6 +145,8 @@
          "id":15,
          "name":"zoom",
          "objects":[],
+         "offsetx":16.7097879378581,
+         "offsety":155.529564652372,
          "opacity":1,
          "properties":[
                 {
@@ -156,8 +158,26 @@
          "visible":true,
          "x":0,
          "y":0
+        }, 
+        {
+         "id":16,
+         "image":"",
+         "name":"bsrfg",
+         "offsetx":-7.71220981747297,
+         "offsety":176.095457498966,
+         "opacity":1,
+         "properties":[
+                {
+                 "name":"openWebsite",
+                 "type":"string",
+                 "value":"https:\/\/workadventu.re\/map-building\/special-zones"
+                }],
+         "type":"imagelayer",
+         "visible":true,
+         "x":0,
+         "y":0
         }],
- "nextlayerid":16,
+ "nextlayerid":17,
  "nextobjectid":1,
  "orientation":"orthogonal",
  "renderorder":"right-down",
