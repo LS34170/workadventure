@@ -152,7 +152,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/workadventu.re\/map-building\/special-zones"
+                 "value":"https:\/\/google.com"
                 }],
          "type":"objectgroup",
          "visible":true,
