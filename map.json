@@ -141,25 +141,6 @@
          "y":0
         }, 
         {
-         "draworder":"topdown",
-         "id":15,
-         "name":"zoom",
-         "objects":[],
-         "offsetx":16.7097879378581,
-         "offsety":155.529564652372,
-         "opacity":1,
-         "properties":[
-                {
-                 "name":"openWebsite",
-                 "type":"string",
-                 "value":"https:\/\/google.com"
-                }],
-         "type":"objectgroup",
-         "visible":true,
-         "x":0,
-         "y":0
-        }, 
-        {
          "id":16,
          "image":"",
          "name":"bsrfg",
@@ -170,7 +151,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/workadventu.re\/map-building\/special-zones"
+                 "value":"https:\/\/google.com"
                 }],
          "type":"imagelayer",
          "visible":true,
